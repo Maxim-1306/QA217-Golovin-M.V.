@@ -1,0 +1,5 @@
+<com.squareup.timessquare.CalendarPickerView
+    android:id="@+id/calendar_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    />
